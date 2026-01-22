@@ -14,9 +14,6 @@
         "_locales/id/sensor-water-strings.json",
         "_locales/id/sensor-water-jsdoc-strings.json"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
     "supportedTargets": [
         "microbit"
     ],
