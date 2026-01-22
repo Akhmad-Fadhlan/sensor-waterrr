@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <!-- Background -->
+    <rect width="64" height="64" rx="8" fill="#0fbc11"/>
+    
+    <!-- Water Drop -->
+    <path d="M 32 12 C 32 12 24 22 24 30 C 24 36 27.5 40 32 40 C 36.5 40 40 36 40 30 C 40 22 32 12 32 12 Z" 
+          fill="#ffffff" opacity="0.9"/>
+    
+    <!-- pH Symbol -->
+    <text x="32" y="54" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
+          text-anchor="middle" fill="#ffffff">pH</text>
+    
+    <!-- Measurement Lines -->
+    <line x1="18" y1="28" x2="22" y2="28" stroke="#ffffff" stroke-width="1.5"/>
+    <line x1="42" y1="28" x2="46" y2="28" stroke="#ffffff" stroke-width="1.5"/>
+    <line x1="18" y1="32" x2="22" y2="32" stroke="#ffffff" stroke-width="1.5"/>
+    <line x1="42" y1="32" x2="46" y2="32" stroke="#ffffff" stroke-width="1.5"/>
+</svg>
