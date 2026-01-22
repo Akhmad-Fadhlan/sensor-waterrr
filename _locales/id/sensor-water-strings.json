@@ -1,0 +1,12 @@
+{
+    "phSensor.begin|block": "inisialisasi PH sensor di pin %pin",
+    "phSensor.setTemperature|block": "set suhu kompensasi %temp °C",
+    "phSensor.readPH|block": "baca nilai pH",
+    "phSensor.readVoltage|block": "baca tegangan sensor (mV)",
+    "phSensor.calibrateNeutral|block": "kalibrasi larutan netral (pH 7.0)",
+    "phSensor.calibrateAcid|block": "kalibrasi larutan asam (pH 4.0)",
+    "phSensor.resetCalibration|block": "reset kalibrasi",
+    "{id:category}phSensor": "Sensor pH",
+    "{id:subcategory}Pembacaan": "Pembacaan",
+    "{id:subcategory}Kalibrasi": "Kalibrasi"
+}

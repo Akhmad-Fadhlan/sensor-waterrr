@@ -1,0 +1,11 @@
+{
+    "phSensor.begin": "Inisialisasi sensor pH dengan pin analog tertentu",
+    "phSensor.begin|param|pin": "Pin analog untuk membaca sensor pH",
+    "phSensor.setTemperature": "Set suhu untuk kompensasi temperatur",
+    "phSensor.setTemperature|param|temp": "Suhu dalam Celsius",
+    "phSensor.readPH": "Baca nilai pH dari sensor (0-14)",
+    "phSensor.readVoltage": "Baca nilai tegangan dari sensor dalam miliVolt",
+    "phSensor.calibrateNeutral": "Kalibrasi dengan larutan buffer pH 7.0 (netral). Celupkan sensor ke larutan pH 7.0 kemudian panggil fungsi ini",
+    "phSensor.calibrateAcid": "Kalibrasi dengan larutan buffer pH 4.0 (asam). Celupkan sensor ke larutan pH 4.0 kemudian panggil fungsi ini",
+    "phSensor.resetCalibration": "Reset kalibrasi ke nilai default pabrik"
+}
